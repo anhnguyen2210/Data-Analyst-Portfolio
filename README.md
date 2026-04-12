@@ -64,7 +64,7 @@ This section showcases selected projects demonstrating my ability to solve real-
 
 ## 🔥 1. Revenue Performance Analysis (Power BI) 
 
-[LINK]([url](https://github.com/anhnguyen2210/Revenue-Performance-Analysis-Dashboard-Olist-E-commerce))
+[Detailed Project]([url](https://github.com/anhnguyen2210/Revenue-Performance-Analysis-Dashboard-Olist-E-commerce))
 ###  Overview
 End-to-end revenue analysis for an e-commerce platform using Olist dataset.
 
@@ -95,8 +95,8 @@ End-to-end revenue analysis for an e-commerce platform using Olist dataset.
 ---
 
 ## 🔥 2. Customer Retention & LTV Analysis (Olist Dataset)  
+[DETAILED PROJECT](https://github.com/anhnguyen2210/brazilian_ecommerce_retention_ltv_olist) 
 
-[LINK]([url](https://github.com/anhnguyen2210/brazilian_ecommerce_retention_ltv_olist))
 ### Overview
 Customer behavior analysis focusing on retention and lifetime value.
 
