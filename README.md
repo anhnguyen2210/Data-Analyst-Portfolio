@@ -19,9 +19,6 @@ I have worked across:
 - [Portfolio Projects](#-portfolio-projects)
   - [Revenue Performance Analysis](#-1-revenue-performance-analysis-power-bi)
   - [Customer Retention & LTV Analysis](#-2-customer-retention--ltv-analysis-olist-dataset)
-  - [Logistics Performance & Longtail Optimization](#-3-logistics-performance--longtail-optimization)
-- [What Makes My Work Different](#-what-makes-my-work-different)
-- [Current Focus](#-current-focus)
 - [Contact](#-contact)
 - [Final Thought](#-final-thought)
 
@@ -66,66 +63,62 @@ This section showcases selected projects demonstrating my ability to solve real-
 ---
 
 ## 🔥 1. Revenue Performance Analysis (Power BI) 
-[LINK]([url](https://github.com/anhnguyen2210/Revenue-Performance-Analysis-Dashboard-Olist-E-commerce)))
-
-### 📌 Overview
+[LINK]([url](https://github.com/anhnguyen2210/Revenue-Performance-Analysis-Dashboard-Olist-E-commerce))
+###  Overview
 End-to-end revenue analysis for an e-commerce platform using Olist dataset.
 
-### 🎯 Business Problem
+### Business Problem
 - Identify key revenue drivers  
 - Diagnose performance issues  
 - Optimize growth strategy  
 
-### 📊 Key Highlights
+### Key Highlights
 - Analyzed ~100K orders across multi-dimensional dataset  
 - Identified **revenue concentration in top regions & categories**  
 - Detected **operational inefficiencies impacting performance**  
 
-### 💡 Key Insights
+### Key Insights
 - Revenue heavily concentrated in a few regions (SP dominates)
 - Top categories drive majority of revenue
 - Late delivery (~9%) impacts customer experience
 - Customer purchasing behavior is weekday-driven
 
-### 💰 Business Impact
+### Business Impact
 - Proposed regional expansion strategy  
 - Identified logistics bottlenecks  
 - Improved decision-making for revenue optimization  
 
-### 🛠️ Tools
+### Tools
 - Power BI  
-- SQL  
 
 ---
 
 ## 🔥 2. Customer Retention & LTV Analysis (Olist Dataset)  
 [LINK]([url](https://github.com/anhnguyen2210/brazilian_ecommerce_retention_ltv_olist))
-
-### 📌 Overview
+### Overview
 Customer behavior analysis focusing on retention and lifetime value.
 
-### 🎯 Business Problem
+### Business Problem
 - Understand churn behavior  
 - Identify high-value customers  
 - Improve retention strategy  
 
-### 📊 Key Highlights
+### Key Highlights
 - Built cohort retention model across customer lifecycle  
 - Analyzed retention drop-off patterns  
 - Estimated LTV distribution  
 
-### 💡 Key Insights
+### Key Insights
 - Majority of users churn within first 3 months  
 - Small group of users drives majority of revenue (Pareto effect)  
 
-### 💰 Business Impact
+### Business Impact
 - Suggested early-stage retention strategies  
 - Identified high-value customer segments for targeting  
 
-### 🛠️ Tools
+### Tools
 - SQL  
 - Python  
-- Power BI  
 
 ---
 
@@ -141,19 +134,10 @@ My work focuses on:
 ✅ decision-making  
 ✅ measurable impact  
 
----
-
-# 🚀 Current Focus
-
-I am currently focused on:
-- Product Analytics (Growth, Monetization)
-- Experimentation (A/B Testing)
-- Advanced Analytics (LTV, Retention)
-- Bridging Data & Business Strategy  
 
 ---
 
-# 📬 Contact
+# Contact
 
 - 📧 Email: anhnguyen22102000@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/anhnguyen221/
@@ -161,6 +145,6 @@ I am currently focused on:
 
 ---
 
-# ⭐ Final Thought
+# Final Thought
 
 > "The value of data is not in dashboards — it's in decisions."
