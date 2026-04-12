@@ -128,21 +128,6 @@ Customer behavior analysis focusing on retention and lifetime value.
 
 ---
 
-# 📈 What Makes My Work Different
-
-Most data portfolios focus on:
-❌ dashboards  
-❌ tools  
-
-My work focuses on:
-
-✅ business problems  
-✅ decision-making  
-✅ measurable impact  
-
-
----
-
 # Contact
 
 - 📧 Email: anhnguyen22102000@gmail.com  
