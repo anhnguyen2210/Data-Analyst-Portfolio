@@ -11,6 +11,8 @@ I have worked across:
 - E-commerce (Monetization & Growth)
 - Logistics (Operations & Network Optimization)
 - Product Analytics (A/B Testing, Funnel Optimization)
+
+My attached CV [here]([url](https://github.com/anhnguyen2210/Data-Analyst-Portfolio/blob/main/CV%20Nguyen%20Le%20Anh%20Nguyen.pdf)).
 ---
 ## Table of Content
 - [About Me](#-about-me)
