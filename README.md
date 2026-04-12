@@ -1,7 +1,7 @@
-# Data-Analyst-Portfolio
-# 👋 Nguyen Le Anh Nguyen (Wynn) — Data Analyst | Product & Operations Analytics
+## Nguyen Le Anh Nguyen (Wynn) -  Data Analyst Portfolio
+Data Analyst | Product & Operations Analytics
 
-## 📌 About Me
+## About 
 
 I am a Data Analyst with 4+ years of experience working at the intersection of **product, operations, and business analytics**.
 
@@ -12,8 +12,20 @@ I have worked across:
 - Logistics (Operations & Network Optimization)
 - Product Analytics (A/B Testing, Funnel Optimization)
 ---
+## Table of Content
+- [About Me](#-about-me)
+- [Key Achievements](#-key-achievements)
+- [Technical Skills](#-technical-skills)
+- [Portfolio Projects](#-portfolio-projects)
+  - [Revenue Performance Analysis](#-1-revenue-performance-analysis-power-bi)
+  - [Customer Retention & LTV Analysis](#-2-customer-retention--ltv-analysis-olist-dataset)
+  - [Logistics Performance & Longtail Optimization](#-3-logistics-performance--longtail-optimization)
+- [What Makes My Work Different](#-what-makes-my-work-different)
+- [Current Focus](#-current-focus)
+- [Contact](#-contact)
+- [Final Thought](#-final-thought)
 
-## 🎯 Key Achievements
+## Key Achievements
 
 - 🚀 Increased conversion rate by **+30%** through A/B testing optimization  
 - 💰 Drove **10x revenue growth** via bundle personalization strategy  
@@ -26,7 +38,7 @@ I have worked across:
 
 **Data Analysis**
 - SQL (BigQuery, Trino)
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy)m Matplotlib, Seaborn
 
 **Visualization**
 - Power BI  (DAX)
