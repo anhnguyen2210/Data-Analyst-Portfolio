@@ -12,12 +12,7 @@ I have worked across:
 - Logistics (Operations & Network Optimization)
 - Product Analytics (A/B Testing, Funnel Optimization)
 
-
-👉 [My attached CV here ](https://github.com/anhnguyen2210/Data-Analyst-Portfolio/blob/main/CV%20Nguyen%20Le%20Anh%20Nguyen.pdf) 
-
-
-
-👉 My attached [CV here ](https://github.com/anhnguyen2210/Data-Analyst-Portfolio/blob/main/CV%20Nguyen%20Le%20Anh%20Nguyen.pdf) 
+👉 My attached [CV](https://github.com/anhnguyen2210/Data-Analyst-Portfolio/blob/main/CV%20Nguyen%20Le%20Anh%20Nguyen.pdf) here. 
 
 
 ---
