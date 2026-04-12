@@ -147,7 +147,7 @@ My work focuses on:
 
 - 📧 Email: anhnguyen22102000@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/anhnguyen221/
-- 💻 GitHub: [https://github.com/your-github  ](https://github.com/anhnguyen2210)
+- 💻 GitHub: https://github.com/anhnguyen2210
 
 ---
 
