@@ -1,5 +1,5 @@
 ## Nguyen Le Anh Nguyen (Wynn) -  Data Analyst Portfolio
-Data Analyst | Product & Operations Analytics
+Data Analyst | Business Analyst | Product & Operations Analytics
 
 ## About 
 
