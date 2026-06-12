@@ -39,7 +39,7 @@ I have worked across:
 
 **Data Analysis**
 - SQL (BigQuery, Trino)
-- Python (Pandas, NumPy)m Matplotlib, Seaborn
+- Python (Pandas, NumPy,  Matplotlib, Seaborn
 
 **Visualization**
 - Power BI  (DAX)
