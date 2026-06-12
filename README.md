@@ -138,4 +138,4 @@ Customer behavior analysis focusing on retention and lifetime value.
 
 # Final Thought
 
-> "The value of data is not in dashboards — it's in decisions."
+> "The value of data is not in dashboards - it's in decisions."
